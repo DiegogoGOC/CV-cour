@@ -1,0 +1,8 @@
+img {
+    max-width : 50px;
+}
+#photo{
+    margin-top: 5%;
+    max-width : 200px;
+    border-radius: 50%;
+}
