@@ -1,0 +1,12 @@
+#photo:hover{
+    cursor:zoom-in;
+}
+footer img:hover{
+    max-width : 70px;
+}
+a:hover {
+    color: #e0267d;
+    text-decoration: underline;
+}div+div section:hover{
+    border-right: 3px solid #782221;
+}
